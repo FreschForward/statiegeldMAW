@@ -2,9 +2,8 @@
     session_start();
 
     /* Load Basics */
-    //define('PATH', '/sites/fresch.org/private/');
-    define('PATH', '/Users/fresch/Sites/private/');
-        include_once(PATH.'hgl.base.inc.php'); 
+    define('PATH', '/../');
+    include_once(PATH.'hgl.base.inc.php'); 
 
 ?>
 
